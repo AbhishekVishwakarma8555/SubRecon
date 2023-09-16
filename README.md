@@ -7,7 +7,7 @@
 
 # Fast Subdomain Enumeration Tool
 
-In SubRecon, you can search valid subdomains of websites using various tools. This tool makes it easy to find subdomains from multiple tools at once. Each tool is checked one by one, all the data is collected and stored in a file, then all the unique subdomains are sorted, and the status code is obtained by sending it to httpx-toolkit for checking and saving the output. Also, you can see all types of records for the subdomains with the help of DNSRECONS.
+In SubRecon, you can search valid subdomains of websites using various tools. This tool makes it easy to find subdomains from multiple tools at once. Each tool is checked one by one, all the data is collected and stored in a file, then all the unique subdomains are sorted, and the status code is obtained by sending it to httpx-toolkit for checking and saving the output. Also, with the help of DNSRECONS, you can see all types of DNS records for the subdomains, and they will be stored in a separate file (dnsrecon_result.txt).
 
 # Features 
 
