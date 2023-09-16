@@ -22,7 +22,7 @@ In SubRecon, you can search valid subdomains of websites using various tools. Th
 
 # Installation 
 
-    git clone 
+    git clone https://github.com/AbhishekVishwakarma8555/SubRecon.git
 
 # Prerequisite
 - To use this tool you have to install few other tools like subfinder, assetfinder, findomain, dnsrecon and httpx-toolkit.
